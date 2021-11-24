@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Laboratorio9_GRUPO1:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Laboratorio9_GRUPO1</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="LAB7_SW1_BASE-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Laboratorio9_GRUPO1:war exploded" />
+    </root>
+  </artifact>
+</component>
